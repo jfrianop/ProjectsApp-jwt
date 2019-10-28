@@ -1,0 +1,8 @@
+#login, #register, #projects {
+  display: none;
+}
+
+
+.error {
+  color: red;
+}
